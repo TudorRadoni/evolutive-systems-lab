@@ -1,4 +1,4 @@
-package org.labwork.lab2;
+package org.labwork.lab2.exercise1;
 
 import org.jgap.*;
 import org.jgap.Chromosome;
@@ -8,6 +8,7 @@ import org.jgap.IChromosome;
 import org.jgap.InvalidConfigurationException;
 import org.jgap.impl.BooleanGene;
 import org.jgap.impl.DefaultConfiguration;
+import org.labwork.lab2.exercise2.PlotFitnessValues;
 
 import java.util.ArrayList;
 import java.util.List;

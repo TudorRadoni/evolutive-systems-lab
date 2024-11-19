@@ -1,4 +1,4 @@
-package org.labwork.lab2;
+package org.labwork.lab2.exercise2;
 
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
