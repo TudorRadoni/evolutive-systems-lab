@@ -1,4 +1,4 @@
-package org.example.lab2;
+package org.labwork.lab2;
 
 import org.jgap.FitnessFunction;
 import org.jgap.IChromosome;

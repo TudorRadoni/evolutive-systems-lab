@@ -1,4 +1,4 @@
-package org.example.lab1;
+package org.labwork.lab1;
 
 public class Lab1Main {
     public static void main(String[] args) {

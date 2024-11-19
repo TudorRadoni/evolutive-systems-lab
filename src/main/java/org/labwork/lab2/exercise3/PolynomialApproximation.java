@@ -1,4 +1,4 @@
-package org.example.lab2.exercise3;
+package org.labwork.lab2.exercise3;
 
 import org.jgap.*;
 import org.jgap.impl.*;

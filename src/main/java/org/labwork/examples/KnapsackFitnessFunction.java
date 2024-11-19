@@ -1,7 +1,6 @@
-package org.example.examples;
+package org.labwork.examples;
 
 import org.jgap.*;
-import org.jgap.impl.*;
 
 public class KnapsackFitnessFunction extends FitnessFunction {
     private static final int MAX_VOLUME = 30; // V = 30

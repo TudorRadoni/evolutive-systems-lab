@@ -1,9 +1,8 @@
-package org.example.examples;
+package org.labwork.examples;
 
 import org.jgap.*;
 import org.jgap.impl.BooleanGene;
 import org.jgap.impl.DefaultConfiguration;
-import org.jgap.impl.IntegerGene;
 
 
 public class KnapsackProblem {
