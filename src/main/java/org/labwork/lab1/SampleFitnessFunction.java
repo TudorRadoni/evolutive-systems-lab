@@ -1,4 +1,4 @@
-package org.labwork;
+package org.labwork.lab1;
 
 //package lab1;
 

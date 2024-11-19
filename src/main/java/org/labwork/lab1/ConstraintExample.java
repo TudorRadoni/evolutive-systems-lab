@@ -1,6 +1,5 @@
-package org.labwork.examples;
+package org.labwork.lab1;
 
-import org.labwork.SampleFitnessFunction;
 import org.jgap.*;
 import org.jgap.impl.*;
 

@@ -40,3 +40,4 @@ build/
 
 ### My ignores ###
 lib/
+src/main/java/org/labwork/jgap
